@@ -1,0 +1,20 @@
+
+# Local datasets and database
+data/raw/
+data/processed/
+*.db
+*.sqlite
+*.sqlite3
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Power BI temporary and backup files
+*.tmp
+*.bak
